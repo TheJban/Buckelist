@@ -1,13 +1,16 @@
 # Buckelist
 
-Possibilities:
+**Possibilities:**
 
--Create markers on the map.
--Wirte custom name and description.
--Locate places and events nearby from wiki API.
+- Create markers on the map.
+- Wirte custom name and description.
+- Locate places and events nearby from wiki API.
 
--- Code writen with SwiftUI, 
--- Biometric authentification is enabled( You can acces to your map with FaceID or TouchID.
+
+**Features**
+
+* Code writen with SwiftUI, 
+* Biometric authentification is enabled( You can acces to your map with FaceID or TouchID.
 
 Below you can see all functionality of this app
 
